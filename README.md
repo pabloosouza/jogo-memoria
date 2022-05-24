@@ -6,3 +6,5 @@ Ao realizar essa atividade, aprendi diversos recursos, principalmente em relaç�
 
 ## Funcionalidades adiciondas
 - [X] Chegar vitória.
+
+Disponível para jogar em: https://jogomemoria-op.netlify.app/
